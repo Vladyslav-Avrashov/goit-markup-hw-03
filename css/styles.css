@@ -1,0 +1,165 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+
+}
+
+a {
+    text-decoration: none;
+    color: #2e2f42;
+}
+
+ul {
+    list-style-type: none;
+    color: #434455;
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.logo .studio {
+    color: #2e2f42;
+}
+
+.navigate {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.navigate:hover, .navigate:focus {
+    color:#404bbf;
+}
+
+footer {
+    background-color: #434455;
+    color: #ffffff;
+}
+
+.first {
+    background-color: #2E2F42;
+}
+
+.first .button {
+    background-color: #4d5ae5;
+    color: #ffffff;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+
+.first .button:hover, .first .button:focus {
+    background-color: #404bbf
+}
+
+.contact {
+    font-style: normal;
+}
+
+.contact .connection {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.contact .connection:hover, .contact .connection:focus {
+    color: #404bbf;
+}
+
+.first .title {
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #ffffff;
+}
+
+.benefit {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.about {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.third {
+    background-color: #f4f4fd;
+}
+
+.third .team{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.third .info {
+    background-color: #ffffff;
+}
+
+.third .person {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.third .about {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.portfolio {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.product {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42
+}
+
+.type {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.under {
+    background-color: #2e2f42;
+}
+
+.slogan {
+    line-height: 1.5;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
+}
+
+.under .logo .studio {
+    color: #f4f4fd;
+}
